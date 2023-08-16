@@ -13,6 +13,6 @@
 
 ## Analysis
 - The logic between the original and better solutions are the same, just some of the syntax is different
-- The runtime of the original solution beat 91.96% but the memory only beat 19.72%
+- The runtime of the original solution beat 94.81% but the memory only beat 19.72%
 - The runtime of the better solution beat 72.64% and the memory beat 92.76%
 - Changing the syntax can lead to better performance in some areas
