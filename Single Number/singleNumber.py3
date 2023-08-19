@@ -14,3 +14,11 @@ class Solution:
                 return temp.index(1)-60000
             else:
                 return temp.index(1)
+
+# Better Solution
+class Solution:
+    def singleNumber(self, nums: List[int]) -> int:
+        ans = 0
+        for i in nums:
+            ans ^= i
+        return ans
