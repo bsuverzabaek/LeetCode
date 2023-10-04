@@ -1,0 +1,6 @@
+# String Matching in an Array
+- Given an array of string `words`, return all strings in `words` that is a substring of another word. You can return the answer in any order.
+- A substring is a contiguous sequence of characters within a string
+
+## Analysis
+- This was a good way of comparing one word to the others
