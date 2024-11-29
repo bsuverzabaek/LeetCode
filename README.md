@@ -1,3 +1,4 @@
 # LeetCode
 
-- Solutions to LeetCode problems
+- Boats to Save People
+  - 2 Pointer
