@@ -6,3 +6,6 @@
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
   - Valid Triangle Number
+
+- Sliding Window
+  - Maximum Average Subarray I
