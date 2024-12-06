@@ -15,3 +15,6 @@
   - Find the Index of the First Occurrence in a String 
   - Longest Substring Without Repeating Characters
   - Maximum Average Subarray I
+ 
+- Bucket Sort
+  - Top K Frequent Elements
