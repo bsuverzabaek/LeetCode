@@ -8,6 +8,7 @@
   - Linked List Cycle (Tortoise and Hare Algorithm/Floyd's Cycle Finding Algorithm)
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
+  - Valid Mountain Array
   - Valid Triangle Number
 
 - Sliding Window
