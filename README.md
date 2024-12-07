@@ -18,3 +18,6 @@
  
 - Bucket Sort
   - Top K Frequent Elements
+
+- Prefix Sum
+  - Subarray Sum Equals K
