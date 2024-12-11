@@ -26,3 +26,6 @@
  
 - Row-wise Traversal
   - Zigzag Conversion
+
+- Dynamic Programming
+  - Maximum Product Subarray
