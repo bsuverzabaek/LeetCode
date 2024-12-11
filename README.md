@@ -23,3 +23,6 @@
 
 - Prefix Sum
   - Subarray Sum Equals K
+ 
+- Row-wise Traversal
+  - Zigzag Conversion
