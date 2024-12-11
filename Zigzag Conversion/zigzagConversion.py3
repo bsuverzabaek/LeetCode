@@ -3,9 +3,7 @@ class Solution:
         if numRows == 1 or len(s) <= numRows:
             return s
 
-        currentRow = 0
-        goingDown = False
-
+        currentRow, goingDown = 0, False
         rows = [''] * numRows
 
         for char in s:
