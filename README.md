@@ -29,3 +29,6 @@
 
 - Dynamic Programming
   - Maximum Product Subarray
+
+- Binary Search
+  - Search in Rotated Sorted Array
