@@ -10,6 +10,7 @@
   - Merge Sorted Array
   - Reverse String
   - Rotate Array
+  - Trapping Rain Water
   - Valid Mountain Array
   - Valid Triangle Number
 
