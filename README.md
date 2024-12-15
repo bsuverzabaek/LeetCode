@@ -36,3 +36,6 @@
 
 - Breadth-First Search (BFS)
   - Binary Tree Right Side View
+
+- Linear Traversal
+  - Summary Ranges
