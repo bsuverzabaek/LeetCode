@@ -39,3 +39,6 @@
 
 - Linear Traversal
   - Summary Ranges
+
+- Backtracking
+  - Permutations
