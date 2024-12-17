@@ -32,6 +32,7 @@
   - Maximum Product Subarray
 
 - Binary Search
+  - Search a 2D Matrix
   - Search in Rotated Sorted Array
 
 - Breadth-First Search (BFS)
