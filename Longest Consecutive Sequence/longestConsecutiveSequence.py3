@@ -3,11 +3,7 @@ class Solution:
         if len(nums) == 0:
             return 0
 
-        unique = set()
-
-        for num in nums:
-            unique.add(num)
-
+        unique = set(nums)
         maxLength = 0
 
         for num in unique:
