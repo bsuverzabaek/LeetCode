@@ -52,4 +52,5 @@
   - Product of Array Except Self
 
 - Other
+  - Longest Consecutive Sequence
   - Reverse Words in a String
