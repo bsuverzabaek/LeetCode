@@ -54,3 +54,4 @@
 - Other
   - Longest Consecutive Sequence
   - Reverse Words in a String
+  - Valid Sudoku
