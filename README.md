@@ -53,6 +53,7 @@
 
 - Other
   - Longest Consecutive Sequence
+  - Reverse Integer
   - Reverse Words in a String
   - Rotate Image
   - Valid Sudoku
