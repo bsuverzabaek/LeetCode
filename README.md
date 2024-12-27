@@ -53,6 +53,7 @@
 
 - Other
   - Longest Consecutive Sequence
+  - Max Consecutive Ones
   - Reverse Integer
   - Reverse Words in a String
   - Rotate Image
