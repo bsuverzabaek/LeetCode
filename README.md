@@ -8,6 +8,7 @@
   - Linked List Cycle (Tortoise and Hare Algorithm/Floyd's Cycle Finding Algorithm)
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
+  - Remove Element
   - Remove Nth Node From End of List
   - Reverse String
   - Rotate Array
