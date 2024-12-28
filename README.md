@@ -5,6 +5,7 @@
   - 3Sum Closest
   - Boats to Save People
   - Container with Most Water
+  - Find Pivot Index (Prefix Sum)
   - Linked List Cycle (Tortoise and Hare Algorithm/Floyd's Cycle Finding Algorithm)
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
