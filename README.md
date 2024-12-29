@@ -33,6 +33,7 @@
 
 - Dynamic Programming
   - Maximum Product Subarray
+  - Pascal's Triangle
 
 - Binary Search
   - Search a 2D Matrix
