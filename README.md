@@ -63,5 +63,6 @@
   - Max Consecutive Ones
   - Reverse Integer
   - Reverse Words in a String
+  - Roman to Integer
   - Rotate Image
   - Valid Sudoku
