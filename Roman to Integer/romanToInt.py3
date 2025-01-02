@@ -9,10 +9,17 @@ class Solution:
             "D": 500,
             "M": 1000
         }
-        ans = 0
-        s = s.replace("IV","IIII").replace("IX","VIIII")
-        s = s.replace("XL","XXXX").replace("XC","LXXXX")
-        s = s.replace("CD","CCCC").replace("CM","DCCCC")
+
+        total = prev = 0
+
         for char in s:
-            ans += index[char]
-        return ans
+            current = index[char]
+            
+            if current > prev:
+                total += current - (2 * prev)
+            else:
+                total += current
+
+            prev = current
+
+        return total
