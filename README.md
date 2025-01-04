@@ -58,6 +58,9 @@
 - Two Pass Approach
   - Product of Array Except Self
 
+- Greedy
+  - Jump Game
+
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
