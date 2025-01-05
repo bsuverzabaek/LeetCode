@@ -61,6 +61,9 @@
 - Greedy
   - Jump Game
 
+- Quick Select
+  - K<sup>th</sup> Largest Element in an Array
+
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
