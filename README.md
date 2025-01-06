@@ -42,6 +42,7 @@
 
 - Breadth-First Search (BFS)
   - Binary Tree Right Side View
+  - Same Tree (Iterative)
 
 - Depth-First Search (DFS)
   - Maximum Depth of Binary Tree
