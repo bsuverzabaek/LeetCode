@@ -65,6 +65,9 @@
 - Quick Select
   - K<sup>th</sup> Largest Element in an Array
 
+- Stack
+  - Daily Temperatures (Monotonic Stack)
+
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
