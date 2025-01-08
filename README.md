@@ -46,12 +46,14 @@
 
 - Depth-First Search (DFS)
   - Maximum Depth of Binary Tree
+  - Word Search
 
 - Linear Traversal
   - Summary Ranges
 
 - Backtracking
   - Permutations
+  - Word Search
 
 - Recursion
   - Invert Binary Tree
