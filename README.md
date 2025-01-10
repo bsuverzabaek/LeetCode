@@ -45,6 +45,7 @@
   - Same Tree (Iterative)
 
 - Depth-First Search (DFS)
+  - Diameter of Binary Tree (Post Order Traversal)
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
   - Word Search
