@@ -79,4 +79,5 @@
   - Reverse Words in a String
   - Roman to Integer
   - Rotate Image
+  - Spiral Matrix
   - Valid Sudoku
