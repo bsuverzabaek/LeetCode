@@ -81,4 +81,5 @@
   - Roman to Integer
   - Rotate Image
   - Spiral Matrix
+  - String to Integer (atoi)
   - Valid Sudoku
