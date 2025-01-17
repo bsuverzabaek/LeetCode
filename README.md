@@ -50,6 +50,7 @@
   - Diameter of Binary Tree (Post Order Traversal)
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
+  - Number of Islands
   - Word Search
 
 - Linear Traversal
