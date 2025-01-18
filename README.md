@@ -76,6 +76,9 @@
 - Stack
   - Daily Temperatures (Monotonic Stack)
 
+- Sorting
+  - Merge Intervals
+
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
