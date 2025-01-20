@@ -33,6 +33,7 @@
 
 - Dynamic Programming
   - Best Time to Buy and Sell Stock
+  - Coin Change
   - House Robber
   - Maximum Product Subarray
   - Pascal's Triangle
