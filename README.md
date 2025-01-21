@@ -18,7 +18,8 @@
   - Valid Triangle Number
 
 - Sliding Window
-  - Find the Index of the First Occurrence in a String 
+  - Find the Index of the First Occurrence in a String
+  - Longest Repeating Character Replacement
   - Longest Substring Without Repeating Characters
   - Maximum Average Subarray I
  
