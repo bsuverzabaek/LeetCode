@@ -1,14 +1,8 @@
 # Remove Duplicates from Sorted Array
-- Return `k` unique elements from `nums`
 
-## Solution
-1. `k` starts as `1` since the first element is always unique
-2. To compare the current element with the previous one, start the iteration from `1`:
-  - If the current and previous elements are different, then the element is unique
-    - If it is unique, `nums[k]` is updated with `nums[i]`. `k` is increased by `1` to mark the next index of the unique element
-3. Return `k`
+- Given an integer array `nums` sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same. Then return the number of unique elements in `nums`.
 
-- Any duplicates are overwritten and `k` is the length of the new array
+- Consider the number of unique elements of `nums` to be `k`, to get accepted, you need to do the following things:
 
-## Original Solution
-- This solution does not work because `set` does not actually remove duplicates. It allocates extra space for another data structure (in this case, `set`), which is not allowed in the parameters
+  - Change the array `nums` such that the first `k` elements of `nums` contain the unique elements in the order they were present in `nums` initially. The remaining elements of `nums` are not important as well as the size of `nums`.
+  - Return `k`.
