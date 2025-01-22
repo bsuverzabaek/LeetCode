@@ -9,6 +9,7 @@
   - Linked List Cycle (Tortoise and Hare Algorithm/Floyd's Cycle Finding Algorithm)
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
+  - Remove Duplicates from Sorted Array
   - Remove Element
   - Remove Nth Node From End of List
   - Reverse String
@@ -36,6 +37,7 @@
   - Best Time to Buy and Sell Stock
   - Coin Change
   - House Robber
+  - Longest Increasing Subsequence
   - Maximum Product Subarray
   - Pascal's Triangle
 
