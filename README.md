@@ -83,6 +83,7 @@
 
 - Sorting
   - Merge Intervals
+  - Valid Anagram
 
 - Other
   - Longest Consecutive Sequence
