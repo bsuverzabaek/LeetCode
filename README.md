@@ -35,6 +35,7 @@
 
 - Dynamic Programming
   - Best Time to Buy and Sell Stock
+  - Climbing Stairs
   - Coin Change
   - House Robber
   - Longest Increasing Subsequence
