@@ -41,6 +41,7 @@
   - Longest Increasing Subsequence
   - Maximum Product Subarray
   - Pascal's Triangle
+  - Word Break
 
 - Binary Search
   - Search a 2D Matrix
