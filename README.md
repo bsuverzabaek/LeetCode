@@ -64,6 +64,7 @@
 
 - Backtracking
   - Combination Sum
+  - Generate Parentheses
   - Letter Combinations of a Phone Number
   - Permutations
   - Word Search
