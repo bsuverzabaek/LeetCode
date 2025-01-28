@@ -67,6 +67,7 @@
   - Generate Parentheses
   - Letter Combinations of a Phone Number
   - Permutations
+  - Subsets
   - Word Search
 
 - Recursion
