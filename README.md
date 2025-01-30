@@ -39,6 +39,7 @@
   - Coin Change
   - House Robber
   - Longest Increasing Subsequence
+  - Min Cost Climbing Stairs
   - Maximum Product Subarray
   - Pascal's Triangle
   - Word Break
