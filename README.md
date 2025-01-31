@@ -42,6 +42,7 @@
   - Min Cost Climbing Stairs
   - Maximum Product Subarray
   - Pascal's Triangle
+  - Target Sum
   - Word Break
 
 - Binary Search
