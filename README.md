@@ -94,6 +94,7 @@
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
+  - Non-overlapping Intervals
   - Reverse Integer
   - Reverse Words in a String
   - Roman to Integer
