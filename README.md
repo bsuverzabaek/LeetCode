@@ -41,6 +41,7 @@
   - Longest Increasing Subsequence
   - Min Cost Climbing Stairs
   - Maximum Product Subarray
+  - Minimum Cost For Tickets
   - Pascal's Triangle
   - Target Sum
   - Word Break
