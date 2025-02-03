@@ -70,6 +70,7 @@
   - Generate Parentheses
   - Letter Combinations of a Phone Number
   - Permutations
+  - Permutations II
   - Subsets
   - Word Search
 
