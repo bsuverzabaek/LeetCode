@@ -74,6 +74,7 @@
   - Permutations II
   - Subsets
   - Word Search
+  - Word Search II
 
 - Recursion
   - Invert Binary Tree
