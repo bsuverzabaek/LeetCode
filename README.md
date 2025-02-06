@@ -69,6 +69,7 @@
   - Combination Sum
   - Generate Parentheses
   - Letter Combinations of a Phone Number
+  - N-Queens
   - Palindrome Partitioning
   - Permutations
   - Permutations II
