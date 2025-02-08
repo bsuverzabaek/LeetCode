@@ -67,6 +67,7 @@
 
 - Backtracking
   - Combination Sum
+  - Find Unique Binary String
   - Generate Parentheses
   - Letter Combinations of a Phone Number
   - N-Queens
