@@ -76,6 +76,7 @@
   - Permutations
   - Permutations II
   - Subsets
+  - Subsets II
   - Word Search
   - Word Search II
 
