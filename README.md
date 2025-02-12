@@ -75,6 +75,7 @@
   - Palindrome Partitioning
   - Permutations
   - Permutations II
+  - Restore IP Addresses
   - Subsets
   - Subsets II
   - Word Search
