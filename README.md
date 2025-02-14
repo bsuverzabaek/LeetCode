@@ -71,6 +71,7 @@
   - Find Unique Binary String
   - Generate Parentheses
   - Letter Combinations of a Phone Number
+  - Matchsticks to Square
   - N-Queens
   - Palindrome Partitioning
   - Permutations
