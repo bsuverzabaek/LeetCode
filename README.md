@@ -60,6 +60,7 @@
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
   - Number of Islands
+  - Reconstruct Itinerary
   - Word Search
 
 - Linear Traversal
