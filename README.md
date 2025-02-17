@@ -75,6 +75,7 @@
   - Matchsticks to Square
   - N-Queens
   - Palindrome Partitioning
+  - Partition to K Equal Sum Subsets
   - Permutations
   - Permutations II
   - Restore IP Addresses
