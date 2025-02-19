@@ -74,6 +74,7 @@
   - Generate Parentheses
   - Letter Combinations of a Phone Number
   - Matchsticks to Square
+  - Maximum Length of a Concatenated String With Unique Characters
   - N-Queens
   - Palindrome Partitioning
   - Partition to K Equal Sum Subsets
