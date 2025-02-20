@@ -55,6 +55,7 @@
   - Same Tree (Iterative)
 
 - Depth-First Search (DFS)
+  - Balanced Binary Tree (Bottom Up)
   - Clone Graph (Recursion)
   - Diameter of Binary Tree (Post Order Traversal)
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
