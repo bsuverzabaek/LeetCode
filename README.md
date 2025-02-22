@@ -57,6 +57,7 @@
 - Depth-First Search (DFS)
   - Balanced Binary Tree (Bottom Up)
   - Clone Graph (Recursion)
+  - Count Good Nodes in Binary Tree (Pre Order Traversal)
   - Diameter of Binary Tree (Post Order Traversal)
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
