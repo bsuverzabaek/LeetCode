@@ -111,6 +111,7 @@
 - Other
   - Longest Consecutive Sequence
   - Max Consecutive Ones
+  - Merge Two Binary Trees
   - Non-overlapping Intervals
   - Reverse Integer
   - Reverse Words in a String
