@@ -24,6 +24,7 @@
   - Longest Repeating Character Replacement
   - Longest Substring Without Repeating Characters
   - Maximum Average Subarray I
+  - Repeated DNA Sequences
  
 - Bucket Sort
   - Top K Frequent Elements
