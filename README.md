@@ -47,6 +47,7 @@
   - Word Break
 
 - Binary Search
+  - Convert Sorted Array to Binary Search Tree
   - Search a 2D Matrix
   - Search in Rotated Sorted Array
 
