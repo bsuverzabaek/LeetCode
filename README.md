@@ -12,6 +12,7 @@
   - Remove Duplicates from Sorted Array
   - Remove Element
   - Remove Nth Node From End of List
+  - Reorder List (Fast&Slow)
   - Reverse String
   - Rotate Array
   - Trapping Rain Water
