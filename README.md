@@ -67,6 +67,7 @@
   - Number of Islands
   - Reconstruct Itinerary
   - Splitting a String Into Descending Consecutive Values
+  - Validate Binary Search Tree
   - Word Search
 
 - Linear Traversal
