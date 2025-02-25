@@ -13,6 +13,7 @@
   - Remove Element
   - Remove Nth Node From End of List
   - Reorder List (Fast&Slow)
+  - Reverse Linked List (Iterative Solution)
   - Reverse String
   - Rotate Array
   - Trapping Rain Water
@@ -95,6 +96,7 @@
 
 - Recursion
   - Invert Binary Tree
+  - Reverse Linked List (Recursive Solution)
 
 - Two Pass Approach
   - Product of Array Except Self
