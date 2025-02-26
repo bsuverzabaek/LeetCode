@@ -21,6 +21,7 @@
   - Valid Triangle Number
 
 - Sliding Window
+  - Find All Anagrams in a String
   - Find the Index of the First Occurrence in a String
   - Longest Repeating Character Replacement
   - Longest Substring Without Repeating Characters
