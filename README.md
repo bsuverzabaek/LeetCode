@@ -24,6 +24,7 @@
 - Sliding Window
   - Find All Anagrams in a String
   - Find the Index of the First Occurrence in a String
+  - Frequency of the Most Frequent Element
   - Longest Repeating Character Replacement
   - Longest Substring Without Repeating Characters
   - Maximum Average Subarray I
