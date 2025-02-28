@@ -59,6 +59,7 @@
   - Search in Rotated Sorted Array
 
 - Breadth-First Search (BFS)
+  - Binary Tree Level Order Traversal
   - Binary Tree Right Side View
   - Same Tree (Iterative)
 
