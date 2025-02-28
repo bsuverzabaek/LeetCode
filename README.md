@@ -120,6 +120,7 @@
   - Valid Anagram
 
 - Other
+  - Add Two Numbers
   - Longest Consecutive Sequence
   - Max Consecutive Ones
   - Merge Two Binary Trees
