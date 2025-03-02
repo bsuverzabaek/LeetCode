@@ -52,6 +52,7 @@
   - Minimum Cost For Tickets
   - Pascal's Triangle
   - Target Sum
+  - Triangle [Meta]
   - Word Break
 
 - Binary Search
