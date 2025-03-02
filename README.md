@@ -9,6 +9,7 @@
   - Linked List Cycle (Tortoise and Hare Algorithm/Floyd's Cycle Finding Algorithm)
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
+  - Palindrome Linked List (Fast&Slow)
   - Remove Duplicates from Sorted Array
   - Remove Element
   - Remove Linked List Elements
