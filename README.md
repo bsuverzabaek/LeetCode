@@ -127,6 +127,7 @@
   - Add Two Numbers
   - Longest Consecutive Sequence
   - Max Consecutive Ones
+  - Merge k Sorted Lists [Meta]
   - Merge Two Binary Trees
   - Non-overlapping Intervals
   - Reverse Integer
