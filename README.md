@@ -74,6 +74,7 @@
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
   - Number of Islands
+  - Path Sum (In Order Traversal) [Microsoft]
   - Reconstruct Itinerary
   - Splitting a String Into Descending Consecutive Values
   - Sum Root to Leaf Numbers
