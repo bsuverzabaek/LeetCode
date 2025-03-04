@@ -18,6 +18,7 @@
   - Reverse Linked List (Iterative Solution)
   - Reverse String
   - Rotate Array
+  - Swap Nodes in Pairs [Apple/Meta]
   - Trapping Rain Water
   - Valid Mountain Array
   - Valid Triangle Number
