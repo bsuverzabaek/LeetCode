@@ -56,6 +56,7 @@
   - Pascal's Triangle
   - Target Sum
   - Triangle [Meta]
+  - Unique Binary Search Trees [Amazon]
   - Word Break
 
 - Binary Search
