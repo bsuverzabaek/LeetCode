@@ -30,6 +30,7 @@
   - Longest Repeating Character Replacement
   - Longest Substring Without Repeating Characters
   - Maximum Average Subarray I
+  - Minimum Number of Flips to Make the Binary String Alternating [Amazon/Google/Meta]
   - Minimum Size Subarray Sum
   - Minimum Window Substring [airbnb]
   - Repeated DNA Sequences
