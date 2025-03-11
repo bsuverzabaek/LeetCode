@@ -34,6 +34,7 @@
   - Minimum Number of Flips to Make the Binary String Alternating [Amazon/Google/Meta]
   - Minimum Size Subarray Sum
   - Minimum Window Substring [airbnb]
+  - Permutation in String [Microsoft]
   - Repeated DNA Sequences
   - Sliding Window Maximum [Google/Apple]
  
