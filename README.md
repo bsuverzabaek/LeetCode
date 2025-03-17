@@ -64,6 +64,7 @@
 
 - Binary Search
   - Convert Sorted Array to Binary Search Tree
+  - Median of Two Sorted Arrays [Meta]
   - Search a 2D Matrix
   - Search in Rotated Sorted Array
 
