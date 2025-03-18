@@ -57,6 +57,7 @@
   - Maximum Product Subarray
   - Minimum Cost For Tickets
   - Pascal's Triangle
+  - Regular Expression Matching (Top-down Memoization) [Google]
   - Target Sum
   - Triangle [Meta]
   - Unique Binary Search Trees [Amazon]
