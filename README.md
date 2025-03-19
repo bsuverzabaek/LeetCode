@@ -131,6 +131,7 @@
 
 - Stack
   - Daily Temperatures (Monotonic Stack)
+  - Largest Rectangle in Histogram [Google]
 
 - Sorting
   - Merge Intervals
