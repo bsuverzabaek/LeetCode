@@ -125,6 +125,7 @@
 
 - Greedy
   - Jump Game
+  - Jump Game II [Google]
 
 - Quick Select
   - K<sup>th</sup> Largest Element in an Array
