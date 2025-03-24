@@ -142,6 +142,7 @@
 
 - Other
   - Add Two Numbers
+  - First Missing Positive [Meta]
   - Longest Consecutive Sequence
   - Max Consecutive Ones
   - Max Points on a Line [Meta]
