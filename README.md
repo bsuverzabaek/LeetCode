@@ -58,6 +58,7 @@
   - Min Cost Climbing Stairs
   - Maximum Product Subarray
   - Minimum Cost For Tickets
+  - Number of Ways to Rearrange Sticks with K Sticks Visible [Meta]
   - Pascal's Triangle
   - Regular Expression Matching (Top-down Memoization) [Google]
   - Target Sum
