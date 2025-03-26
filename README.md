@@ -61,6 +61,7 @@
   - Number of Ways to Rearrange Sticks with K Sticks Visible [Meta]
   - Pascal's Triangle
   - Regular Expression Matching (Top-down Memoization) [Google]
+  - Stickers to Spell Word (Top-down Memoization) [Google]
   - Target Sum
   - Triangle [Meta]
   - Unique Binary Search Trees [Amazon]
