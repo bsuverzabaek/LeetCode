@@ -151,6 +151,7 @@
   - Max Points on a Line [Meta]
   - Merge k Sorted Lists [Meta]
   - Merge Two Binary Trees
+  - Minimum Interval to Include Each Query [Google]
   - Non-overlapping Intervals
   - Reverse Integer
   - Reverse Words in a String
