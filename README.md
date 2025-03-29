@@ -93,6 +93,7 @@
   - Number of Islands
   - Path Sum (In Order Traversal) [Microsoft]
   - Reconstruct Itinerary
+  - Serialize and Deserialize Binary Tree (Pre Order Traversal) [Amazon]
   - Splitting a String Into Descending Consecutive Values
   - Sum Root to Leaf Numbers
   - Validate Binary Search Tree
