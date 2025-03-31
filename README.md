@@ -89,6 +89,7 @@
   - Diameter of Binary Tree (Post Order Traversal)
   - House Robber 3 (Post Order Traversal) [Google]
   - Kth Smallest Element in a BST (In Order Traversal/Iterative) [Amazon]
+  - Longest Increasing Path in a Matrix [Google]
   - Lowest Common Ancestor of a Binary Search Tree (Recursive Search)
   - Maximum Depth of Binary Tree
   - Number of Islands
