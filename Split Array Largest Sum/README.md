@@ -6,4 +6,4 @@
 - A subarray is a contiguous part of the array.
 
 ## Time Complexity
-- O(N*logS)
+- O(N*logS) S = sum of input array
