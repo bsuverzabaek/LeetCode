@@ -52,7 +52,7 @@
   - Burst Balloons [Google]
   - Climbing Stairs
   - Coin Change
-  - Count Vowels Permutation
+  - Count Vowels Permutation [Amazon]
   - Edit Distance (Bottom Up) [Google]
   - House Robber
   - Longest Increasing Subsequence
@@ -154,6 +154,7 @@
   - Longest Consecutive Sequence
   - Max Consecutive Ones
   - Max Points on a Line [Meta]
+  - Maximum Performance of a Team [Meta]
   - Merge k Sorted Lists [Meta]
   - Merge Two Binary Trees
   - Minimum Interval to Include Each Query [Google]
