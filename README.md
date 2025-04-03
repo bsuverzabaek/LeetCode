@@ -52,6 +52,7 @@
   - Burst Balloons [Google]
   - Climbing Stairs
   - Coin Change
+  - Count Vowels Permutation
   - Edit Distance (Bottom Up) [Google]
   - House Robber
   - Longest Increasing Subsequence
