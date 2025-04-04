@@ -75,6 +75,7 @@
   - Search a 2D Matrix
   - Search in Rotated Sorted Array
   - Split Array Largest Sum [Amazon]
+  - Valid Perfect Square [Meta]
 
 - Breadth-First Search (BFS)
   - Binary Tree Level Order Traversal
