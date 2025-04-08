@@ -10,6 +10,7 @@
   - Longest Word in Dictionary through Deleting
   - Merge Sorted Array
   - Palindrome Linked List (Fast&Slow)
+  - Partition List [Microsoft]
   - Remove Duplicates from Sorted Array
   - Remove Element
   - Remove Linked List Elements
