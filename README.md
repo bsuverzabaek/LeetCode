@@ -76,6 +76,7 @@
   - Find K Closest Elements [Amazon]
   - Find Minimum in Rotated Sorted Array [Meta]
   - Guess Number Higher or Lower [Microsoft]
+  - Koko Eating Bananas [Google]
   - Maximum Number of Removable Characters [Meta/Google/Amazon]
   - Median of Two Sorted Arrays [Meta]
   - Search a 2D Matrix
