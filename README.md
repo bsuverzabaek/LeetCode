@@ -73,6 +73,7 @@
   - Arranging Coins [Amazon]
   - Binary Search [Microsoft]
   - Convert Sorted Array to Binary Search Tree
+  - Find First and Last Position of Element in Sorted Array [Microsoft]
   - Find K Closest Elements [Amazon]
   - Find Minimum in Rotated Sorted Array [Meta]
   - Guess Number Higher or Lower [Microsoft]
